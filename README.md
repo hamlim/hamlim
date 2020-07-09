@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a software engineer currently working on the design systems team at Wayfair.
+
+🌎 [matthamlin.me](https://matthamlin.me)
+🐦 [twitter.com/immatthamlin](https://twitter.com/immatthamlin)
+
 <!--
 **hamlim/hamlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
