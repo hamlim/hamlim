@@ -2,7 +2,7 @@
 
 I'm a software engineer currently working on the design systems team at Wayfair.
 
-🌎 [matthamlin.me](https://matthamlin.me)
+🌎 [matthamlin.me](https://matthamlin.me)  
 🐦 [twitter.com/immatthamlin](https://twitter.com/immatthamlin)
 
 <!--
