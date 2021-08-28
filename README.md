@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer currently working on the design systems team at Wayfair.
+I'm a software engineer currently working on the Storefront Frontend Platform team at Wayfair.
 
 🌎 [matthamlin.me](https://matthamlin.me)  
 🐦 [twitter.com/immatthamlin](https://twitter.com/immatthamlin)
